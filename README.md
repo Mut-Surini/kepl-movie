@@ -1,4 +1,4 @@
-## About Laravel Movie DB
+## KEPL MOVIES PROJECT
 
 Ini adalah sistem database movie menggunakan laravel untuk mata kuliah Konstruksi dan Evolusi Perangkat Lunak Prodi Teknologi Rekayasa Perangkat Lunak Jurusan Teknologi Informasi Politeknik Negeri Padang.
 
